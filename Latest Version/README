@@ -1,0 +1,16 @@
+Jackson Curry Final Project: Polar Highway
+
+1.What you need to do to exercise my program is explore the scene and adjust the light:
+My scene looks best in full screen and:
+s/S               Create a foggy storm scene!
+arrow keys        Change the angle at which you are viewing the scene
+PgDn/PgUp         Zoom in and out of the scene
+c                 Change the axis that the sun orbits
+u                 Change the elevation of the sun
+U                 Change the elevation of the sun other way
+ESC               Exit the program
+
+
+2. In the following paragraph I will highlight the cool parts of my program that are the reasons I believe my project deserves an A!  The first thing I am really proud of in the scene is the snowing particle effect that I was able to create from scratch using some data structures and random number generation all of which I implemented myself.  This was pretty hard for me seeing as I had never written a line of C before entering the class so I feel like I learned a lot about how to manipulate data structures within a new language in this class.  The next thing that I am proud of is my frozen lake that is textured and also has a reflection element which took a really long time to figure out and get correct for everything including my light source and sun.  Then the next thing I am proud of is all of the detailed objects that took forever to get correct such as the penguins with 2 different poses (waving and normal), the lamps, the igloos, the sun, and the houses (with smoke that I used blending to achieve a fading effect).  Finally don't forget to press s/S to see the foggy storm scene because it changes the whole mood of the scene! I put a ton of time into this project (70 hours is probably a good lower bound for the amount of time I put into this project).
+
+
